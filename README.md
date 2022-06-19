@@ -1,2 +1,2 @@
-# learning-pandas
+# Learning Pandas
  
